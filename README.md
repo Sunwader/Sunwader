@@ -1,7 +1,6 @@
 Header
 Contacts
 About me
-
 Languages and Tools
 
 <!-- GitHub Stats -- >
