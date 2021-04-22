@@ -1,5 +1,7 @@
-[![Sunwader GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunwader&count_private=true&theme=gotham&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunwader&hide=TeX&layout=compact&theme=gotham)
+<a href="https://sunwader-portfolio.netlify.app/">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Sunwader&count_private=true&theme=gotham&hide=contribs,prs&show_icons=true" />
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunwader&hide=TeX&layout=compact&theme=gotham" />
+</a>
 
 ### Technologies:
 
